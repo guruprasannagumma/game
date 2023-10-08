@@ -1,4 +1,4 @@
-"""
+
 # Import random module
 import random
 
@@ -103,6 +103,5 @@ elif win:
     print('you win')
 else:
     print('you lose')
-"""
 
 
